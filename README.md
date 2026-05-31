@@ -14,7 +14,7 @@
 ## 👋 About Me
 
 ```python
-class AbhinayG:
+class AbhiG:
     def __init__(self):
         self.title        = "Head of AI Platform · VP Engineering — Agentic AI"
         self.focus        = ["Agentic AI & Multi-Agent Systems", "LLM Platforms & Evaluation",
@@ -77,7 +77,7 @@ me.say_hi()
 
 | Where | Role | Scale & Impact |
 |---|---|---|
-| **Birchblue LLC** (Jan 2025 - present) | Head of Data & AI | 0 to 1 agentic platform, 2 live deployments (FSI + HR-tech), Claude API + LangGraph + MCP |
+| **Birchblue** (Jan 2025 - present) | Head of Data & AI | 0 to 1 agentic platform, 2 live deployments (FSI + HR-tech), Claude API + LangGraph + MCP |
 | **S&P Global** (May 2022 - Sept 2023) | Senior Technology Manager — Alt Data & Signals | 500K req/hr, sub-200ms p99, 50+ institutional clients, 4.2x ROI, 12+ eng team |
 | **DynamicIT** (Oct 2014 - Dec 2024) | Senior Director of Technology | 40+ engineers, 150+ Fortune-100 platforms, BCBS/McKesson/LexisNexis/S&P, $1M+ savings, Zero audit findings (HIPAA/SOC 2) |
 | **Aavalar / JPMorgan** (2012 - 2014) | Team Lead | FSI regulated delivery, malicious code detection, first team lead role |
@@ -105,7 +105,7 @@ XGBoost | Time-Series Modeling | Ensemble Methods | Feature Engineering | Entity
 
 ## 🎤 Speaking & Advisory
 
-- **AI4 Conference** — Recurring speaker (~4 talks/yr): agentic AI, multi-agent architectures, production LLM systems
+- **Conferences** — Recurring speaker (~2 talks/yr): agentic AI, multi-agent architectures, production LLM systems
 - **Future Alpha Conference** — AI-native systematic trading, alt-data alpha signals
 - **HyperPalm** (Advisory) — Real-estate tokenization on Ethereum mainnet (ERC-20 / Solidity)
 - **Georgia Tech** — Mentoring program
