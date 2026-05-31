@@ -28,7 +28,7 @@ class AbhiG:
     def say_hi(self):
         print("18+ years building AI-native systems. Let's talk architecture, evals, and what comes next.")
 
-me = AbhinayG()
+me = AbhiG()
 me.say_hi()
 ```
 
@@ -152,7 +152,7 @@ XGBoost | Time-Series Modeling | Ensemble Methods | Feature Engineering | Entity
 
 ## 🌐 Let's Connect
 
-**Actively open to Head of AI Platform / VP Engineering — Agentic AI roles. Full US relocation flexibility.**
+**Actively open to Head of AI Platform / VP Engineering — Agentic AI roles.**
 
 If you're building at the intersection of AI infrastructure, multi-agent systems, and regulated enterprise — I'd love to talk.
 
