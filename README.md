@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=180&section=header&text=Abhinay%20G&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Head%20of%20AI%20Platform%20%C2%B7%20VP%20Engineering%20%E2%80%94%20Agentic%20AI&descAlignY=62&descColor=8b949e)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=180&section=header&text=Abhi%20G&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Head%20of%20AI%20Platform%20%C2%B7%20VP%20Engineering%20%E2%80%94%20Agentic%20AI&descAlignY=62&descColor=8b949e)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhi--tech--leader-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-tech-leader)
 [![Email](https://img.shields.io/badge/Email-abhinaykrupa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinaykrupa@gmail.com)
