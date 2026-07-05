@@ -17,14 +17,14 @@
 ```python
 class AbhiG:
     def __init__(self):
-        self.title        = "Head of AI Platform · VP Engineering — Agentic AI"
-        self.focus        = ["Agentic AI & Multi-Agent Systems", "LLM Platforms & Evaluation",
-                             "AI Strategy, Roadmap & Governance", "Org Scaling (12 to 80+ engineers)"]
-        self.stack        = ["Claude API", "LangGraph", "MCP", "RAG/pgvector",
-                             "Kafka", "Kubernetes", "AWS/Azure/GCP", "Python"]
-        self.at_scale     = "500K+ req/hr | sub-200ms p99 | 5,000+ tenants | S&P Global"
+        self.title = "Head of AI Platform · VP Engineering — Agentic AI"
+        self.focus = ["Agentic AI & Multi-Agent Systems", "LLM Platforms & Evaluation",
+                      "AI Strategy, Roadmap & Governance", "Org Scaling (12 to 80+ engineers)"]
+        self.stack = ["Claude API", "LangGraph", "MCP", "RAG/pgvector",
+                      "Kafka", "Kubernetes", "AWS/Azure/GCP", "Python"]
+        self.at_scale = "500K+ req/hr | sub-200ms p99 | 5,000+ tenants | S&P Global"
         self.building_now = ["Magpie - agentic HR-tech SaaS", "Agentic Alpha Quant - live systematic trading"]
-        self.open_to      = "Head of AI / VP Engineering | Open to relocation anywhere in the US"
+        self.open_to = "Head of AI / VP Engineering | Open to relocation anywhere in the US"
 
     def say_hi(self):
         print("18+ years building AI-native systems. Let's talk architecture, evals, and what comes next.")
@@ -42,6 +42,10 @@ me.say_hi()
 | **[Agentic Alpha Quant](https://github.com/abhinaykrupa/aaquant)** | Systematic Trading (FSI) | Hierarchical LangGraph agent teams: market-regime detection, signal generation, risk assessment, execution oversight. Live capital. Weekly prod iterations. Golden-set evals + drift detection + HITL gates. | Claude API, LangGraph, MCP, Python, QuantConnect |
 | **[Magpie](https://github.com/abhinaykrupa/magpie)** | HR-Tech / Job Search | Multi-tenant agentic SaaS for AI-native job search: 8 portal adapters, template tailoring engine, Chrome MV3 extension, per-tenant circuit breakers, closed-loop feedback ledger. ~35K LOC, 173 ES modules. | Claude API, LangGraph, MCP, pgvector, Node 22, Playwright |
 | **Enterprise ML Inference** | Alt-Data / Finance | 500K+ req/hr at sub-200ms p99. Kafka-driven, multi-tenant, Kubernetes/AWS. VIN entity resolution across 5,000+ dealerships, real-time scoring. 4.2x customer ROI. | Kafka, Kubernetes, AWS, XGBoost, Python, PostgreSQL |
+| **[Claude Cowork to Code Bridge](https://github.com/abhinaykrupa/cowork-to-code-bridge)** | Developer Tooling / Agents | Lets Claude run code on your real machine (Mac/Linux) from any Claude chat, via a safe bridge between Claude Cowork and Claude Code. One-command, idempotent setup with an MCP-style bridge so agents can execute, inspect, and iterate on local code and tools without manual wiring. | MCP-style bridge, Claude Cowork, Claude Code |
+| **[Vertical Procurement Toolkit](https://github.com/abhinaykrupa/vertical-procurement-toolkit)** | Procurement / FinOps | Open-source reference architecture to automate supplier and invoice savings analysis for fragmented-supplier verticals like dental, vet, HVAC, restaurant, and auto. Combines Python, Streamlit, LLM/RAG retrieval, and supplier-management logic for invoice matching, benchmarking, and GPO-style savings workflows. | Python, Streamlit, LLM/RAG, pgvector |
+| **[Scribe Gate](https://github.com/abhinaykrupa/scribegate)** | Note / Transcript Processing | Python-based toolkit (repo scaffold) for building scribing and note-processing pipelines; currently a lightweight foundation with core project wiring and initial modules. Intended as a gatekeeper layer for capturing, transforming, and routing transcripts or notes into downstream LLM or analytics workflows. | Python |
+| **[Creative Iteration Engine](https://github.com/abhinaykrupa/creative-iteration-engine)** | Creative / Ideation | TypeScript codebase for a creative iteration engine that structures multi-step idea generation and refinement loops. Provides an architecture for iterating on prompts, drafts, or concepts with pluggable LLM backends and UI or workflow integrations. | TypeScript, pluggable LLM backends |
 
 ---
 
@@ -51,24 +55,24 @@ me.say_hi()
 +-------------------------------------------------------------+
 |                  BIRCHBLUE AGENTIC PLATFORM                 |
 |                                                             |
-|  Supervisor Agent  (LangGraph + Claude API)                 |
-|       +-- Specialist Sub-Agents  (pluggable per modality)   |
-|       +-- HITL Checkpoints                                  |
-|       +-- Cost / Latency Budget Enforcement                 |
+|   Supervisor Agent (LangGraph + Claude API)                 |
+|     +-- Specialist Sub-Agents (pluggable per modality)      |
+|     +-- HITL Checkpoints                                    |
+|     +-- Cost / Latency Budget Enforcement                   |
 |                                                             |
-|  Evaluation Layer                                           |
-|       +-- Golden-Set Regression Suites                      |
-|       +-- Output Distribution + Tool-Call Drift Detection   |
-|       +-- Hallucination Guards                              |
+|   Evaluation Layer                                          |
+|     +-- Golden-Set Regression Suites                        |
+|     +-- Output Distribution + Tool-Call Drift Detection     |
+|     +-- Hallucination Guards                                |
 |                                                             |
-|  Infrastructure                                             |
-|       +-- Kafka Event Backbone                              |
-|       +-- RAG over pgvector  (hybrid lexical recall)        |
-|       +-- Per-Tenant AES-256-GCM Secrets Vault              |
-|       +-- MCP Tool Surface  (auditable)                     |
+|   Infrastructure                                            |
+|     +-- Kafka Event Backbone                                |
+|     +-- RAG over pgvector (hybrid lexical recall)           |
+|     +-- Per-Tenant AES-256-GCM Secrets Vault                |
+|     +-- MCP Tool Surface (auditable)                        |
 |                                                             |
-|  Modalities today:  LLM, Tabular ML, Time-Series           |
-|  Plugging in:       CV, NLP, RecSys, Generative Video       |
+|   Modalities today: LLM, Tabular ML, Time-Series            |
+|   Plugging in: CV, NLP, RecSys, Generative Video            |
 +-------------------------------------------------------------+
 ```
 
