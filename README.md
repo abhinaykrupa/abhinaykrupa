@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=180&section=header&text=Abhi%20G&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Head%20of%20AI%20Platform%20%C2%B7%20VP%20Engineering%20%E2%80%94%20Agentic%20AI&descAlignY=62&descColor=8b949e)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=180&section=header&text=Abhi%20G&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Head%20of%20AI%20Platform%20%E2%80%94%20Agentic%20AI&descAlignY=62&descColor=8b949e)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhi--tech--leader-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-tech-leader)
 [![Email](https://img.shields.io/badge/Email-abhinaykrupa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinaykrupa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-abhinaykrupa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinaykrupa)
 [![X](https://img.shields.io/badge/X-AbhiGadikoppula-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AbhiGadikoppula)
-[![Open to Work](https://img.shields.io/badge/Open%20to-US%20Relocation%20%7C%20VP%20Eng%20%2F%20Head%20of%20AI-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Open to Work](https://img.shields.io/badge/Open%20to-US%20Relocation%20%7C%20Head%20of%20AI-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
 </div>
 
@@ -17,14 +17,14 @@
 ```python
 class AbhiG:
     def __init__(self):
-        self.title = "Head of AI Platform · VP Engineering — Agentic AI"
+        self.title = "Head of AI Platform — Agentic AI"
         self.focus = ["Agentic AI & Multi-Agent Systems", "LLM Platforms & Evaluation",
                       "AI Strategy, Roadmap & Governance", "Org Scaling (12 to 80+ engineers)"]
         self.stack = ["Claude API", "LangGraph", "MCP", "RAG/pgvector",
                       "Kafka", "Kubernetes", "AWS/Azure/GCP", "Python"]
         self.at_scale = "500K+ req/hr | sub-200ms p99 | 5,000+ tenants | S&P Global"
         self.building_now = ["Magpie - agentic HR-tech SaaS", "Agentic Alpha Quant - live systematic trading"]
-        self.open_to = "Head of AI / VP Engineering | Open to relocation anywhere in the US"
+        self.open_to = "Head of AI | Open to relocation anywhere in the US"
 
     def say_hi(self):
         print("18+ years building AI-native systems. Let's talk architecture, evals, and what comes next.")
@@ -157,7 +157,7 @@ XGBoost | Time-Series Modeling | Ensemble Methods | Feature Engineering | Entity
 
 ## 🌐 Let's Connect
 
-**Actively open to Head of AI Platform / VP Engineering — Agentic AI roles.**
+**Actively open to Head of AI Platform — Agentic AI roles.**
 
 If you're building at the intersection of AI infrastructure, multi-agent systems, and regulated enterprise — I'd love to talk.
 
